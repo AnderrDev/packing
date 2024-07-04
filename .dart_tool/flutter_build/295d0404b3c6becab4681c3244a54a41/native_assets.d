@@ -1,0 +1,1 @@
+ C:\\Users\\cifue\\Desktop\\packing\\mobile\\slc_app\\.dart_tool\\flutter_build\\295d0404b3c6becab4681c3244a54a41\\native_assets.yaml: 
